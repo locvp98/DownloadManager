@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apps</string>
+    <string name="download_song">download_song</string>
+    <string name="download_image">download_image</string>
+</resources>
